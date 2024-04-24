@@ -1,0 +1,18 @@
+p{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(400, 20, 50, 0.7);
+    margin: 20px;
+    padding: 2px;
+    border: 2px solid darkgray;
+    background-color: rgba(00, 00, 00, 1);
+}
+h1{
+    font-family: fantasy;
+    color: rgba(600, 20, 30, 10);
+    margin: 3px;
+    margin-right: 1040px;
+    padding: 2px;
+    border: 1px solid black;
+    background-color: rgba(00, 00, 00, 0.5);
+}
